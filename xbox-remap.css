@@ -1,8 +1,38 @@
-button[data-button="0"] { transform: translate(20px, -20px); } /* A to B */
-button[data-button="1"] { transform: translate(-20px, 20px); } /* B to A */
-button[data-button="2"] { transform: translate(20px, 20px); } /* X to Y */
-button[data-button="3"] { transform: translate(-20px, -20px); } /* Y to X */
+/* .xbox .button {
+    position: absolute;
+    background: url(xbox-assets/abxy.svg);
+    width: 48px;
+    height: 48px;
+}
 
-html {
-    background-color: blue !important;
+.xbox .button.pressed {
+    background-position-y: -48px;
+    margin-top: 5px;
+    opacity: 1;
+} */
+
+
+/* Swapped background position values relative to defaults. */
+.xbox .a {
+    background-position: -49px 0;
+    top: 108px;
+    left: 55px;
+}
+
+.xbox .b {
+    background-position: 0 0;
+    top: 58px;
+    right: 0px;
+}
+
+.xbox .x {
+    background-position: 48px 0;
+    top: 58px;
+    left: 4px;
+}
+
+.xbox .y {
+    background-position: -98px 0;
+    left: 55px;
+    top: 7px;
 }
