@@ -1,15 +1,24 @@
 /* Repointed existing images to updated local copies */
 .controller.xbox {
-    background: url(controller-bg.svg);
+    background: url(img/controller-bg.svg);
     height: 630px;
     width: 750px;
 }
 
 .xbox .button {
     position: absolute;
-    background: url(abxy-buttons.svg);
+    background: url(img/abxy-buttons.svg);
     width: 48px;
     height: 48px;
+}
+
+.fpp .quadrant {
+    position: absolute;
+    background: url(img/transparency.svg) no-repeat;
+    height: 46px;
+    width: 152px;
+    top: 365px;
+    left: 347px;
 }
 
 /* Swapped background position values relative to defaults. */
