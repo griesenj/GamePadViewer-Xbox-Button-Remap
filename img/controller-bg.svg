@@ -22,15 +22,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.8510293"
-     inkscape:cx="327.65553"
-     inkscape:cy="276.87297"
+     inkscape:zoom="1.3088754"
+     inkscape:cx="403.78176"
+     inkscape:cy="406.83782"
      inkscape:window-width="3440"
      inkscape:window-height="1369"
      inkscape:window-x="1432"
      inkscape:window-y="425"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="Layer_1-2" />
   <defs
      id="defs1">
     <style
@@ -275,30 +275,21 @@
            d="M446.23,280.37a16.11,16.11,0,1,1-16.1-16.11A16.11,16.11,0,0,1,446.23,280.37Z"
            id="path22"
            transform="translate(0 0)" />
-        <g
-           id="g24">
-          <rect
-             class="cls-15"
-             x="422.93"
-             y="275.74"
-             width="14.36"
-             height="1.55"
-             id="rect22" />
-          <rect
-             class="cls-15"
-             x="422.93"
-             y="279.66"
-             width="14.36"
-             height="1.55"
-             id="rect23" />
-          <rect
-             class="cls-15"
-             x="422.93"
-             y="283.47"
-             width="14.36"
-             height="1.53"
-             id="rect24" />
-        </g>
+        <rect
+           style="fill:#6d6b6c;fill-opacity:1"
+           id="rect57"
+           width="14.03877"
+           height="2.960557"
+           x="422.97763"
+           y="278.86536" />
+        <rect
+           style="fill:#6d6b6c;fill-opacity:1"
+           id="rect57-5"
+           width="14.03877"
+           height="2.960557"
+           x="-287.50171"
+           y="428.32632"
+           transform="rotate(-90)" />
       </g>
     </g>
     <g
@@ -316,18 +307,13 @@
            d="M338.22,280.37a16.1,16.1,0,1,1-16.1-16.11A16.09,16.09,0,0,1,338.22,280.37Z"
            id="path26"
            transform="translate(0 0)" />
-        <g
-           id="g27">
-          <polygon
-             class="cls-15"
-             points="319.6 280.27 316.57 280.27 316.57 276.48 322.04 276.48 322.04 277.8 323.84 277.8 323.84 274.74 314.95 274.74 314.95 282.13 319.6 282.13 319.6 280.27"
-             id="polygon26" />
-          <path
-             class="cls-15"
-             d="M320.35,278.43V286h9v-7.58Zm7.16,5.78H322v-3.95h5.47Z"
-             id="path27"
-             transform="translate(0 0)" />
-        </g>
+        <rect
+           style="fill:#6d6b6c;fill-opacity:1"
+           id="rect57-1"
+           width="14.03877"
+           height="2.960557"
+           x="315.04413"
+           y="278.90454" />
       </g>
     </g>
     <g
@@ -552,5 +538,41 @@
        cy="196.59616"
        rx="29.64567"
        ry="29.510607" />
+    <circle
+       style="fill:#1a1615;stroke-width:0.960333;fill-opacity:1"
+       id="path24"
+       cx="376.45596"
+       cy="280.38364"
+       r="18.801283" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:0.860304"
+       id="path24-9"
+       cx="376.48672"
+       cy="280.34613"
+       r="16.842913" />
+    <circle
+       style="fill:#0a0a0a;fill-opacity:1;stroke-width:0.805426"
+       id="path24-9-8"
+       cx="376.44086"
+       cy="280.35538"
+       r="15.768517" />
   </g>
+  <path
+     sodipodi:type="star"
+     style="fill:#6d6b6c;fill-opacity:1"
+     id="path57"
+     inkscape:flatsided="false"
+     sodipodi:sides="5"
+     sodipodi:cx="358.58429"
+     sodipodi:cy="256.34387"
+     sodipodi:r1="7.9444671"
+     sodipodi:r2="3.9722333"
+     sodipodi:arg1="0.95449939"
+     sodipodi:arg2="1.5828179"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 363.17633,262.82675 -4.63979,-2.51093 -4.69882,2.39866 0.95427,-5.18862 -3.73328,-3.72761 5.22956,-0.69582 2.39152,-4.70245 2.27778,4.75859 5.21132,0.82133 -3.82181,3.63679 z"
+     inkscape:transform-center-x="-0.029512004"
+     inkscape:transform-center-y="-0.73050669"
+     transform="translate(17.851092,23.826502)" />
 </svg>

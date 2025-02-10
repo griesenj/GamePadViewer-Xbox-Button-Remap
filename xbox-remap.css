@@ -12,13 +12,14 @@
     height: 48px;
 }
 
-.fpp .quadrant {
+.xbox .quadrant {
     position: absolute;
-    background: url(img/transparency.svg) no-repeat;
-    height: 46px;
-    width: 152px;
-    top: 365px;
-    left: 347px;
+    background: url(img/transparency.svg);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
 }
 
 /* Swapped background position values relative to defaults. */
