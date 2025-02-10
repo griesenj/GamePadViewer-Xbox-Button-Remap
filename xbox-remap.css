@@ -2,3 +2,7 @@ button[data-button="0"] { transform: translate(20px, -20px); } /* A to B */
 button[data-button="1"] { transform: translate(-20px, 20px); } /* B to A */
 button[data-button="2"] { transform: translate(20px, 20px); } /* X to Y */
 button[data-button="3"] { transform: translate(-20px, -20px); } /* Y to X */
+
+html {
+    background-color: blue !important;
+}
