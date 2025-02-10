@@ -1,16 +1,8 @@
-/* .xbox .button {
-    position: absolute;
-    background: url(xbox-assets/abxy.svg);
-    width: 48px;
-    height: 48px;
+.controller.xbox {
+    background: url(controller-bg.svg);
+    height: 630px;
+    width: 750px;
 }
-
-.xbox .button.pressed {
-    background-position-y: -48px;
-    margin-top: 5px;
-    opacity: 1;
-} */
-
 
 /* Swapped background position values relative to defaults. */
 .xbox .a {
