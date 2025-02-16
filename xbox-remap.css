@@ -49,9 +49,5 @@
 
 /* Updated background position value from -85px to zero to change stick color to white*/
 .xbox .stick {
-    position: absolute;
-    background: url(xbox-assets/stick.svg);
     background-position: 0px 0;
-    height: 83px;
-    width: 83px;
 }
